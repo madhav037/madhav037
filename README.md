@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Lehru</h1>
-<h3 align="center">A 2nd year CSE student from India</h3>
+<h3 align="center">A 3rd year CSE student from India</h3>
 
 - 📫 How to reach me **madhavwasavaliable@gmail.com**
 
