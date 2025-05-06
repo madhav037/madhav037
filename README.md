@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii 👋<br>I am Madhav <br>🔭 Working on an AI-powered Smart Resume Screener<br>📑 Reading and implementing AI research papers<br><br>,br> <b>Email<b> : **madhavlehru@gmail.com** 
+Hii 👋<br>I am Madhav <br>🔭 Working on an AI-powered Smart Resume Screener<br>📑 Reading and implementing AI research papers<br><br> <b>Email<b>: **madhavlehru@gmail.com** 
 
 
 ## 🌐 Socials:
